@@ -1,0 +1,1 @@
+Shared public types belong here. Prefer domain-specific types over leaking persistence details into UI components.

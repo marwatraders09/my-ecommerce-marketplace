@@ -1,0 +1,1 @@
+Reusable UI components belong here, organized by shared, customer, seller, brand, and admin surfaces as the marketplace grows.

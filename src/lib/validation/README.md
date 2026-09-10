@@ -1,0 +1,1 @@
+Shared request and domain schemas belong here. Keep browser input validation aligned with server-side validation without trusting the browser.

@@ -1,0 +1,1 @@
+Business services belong here. Route handlers should validate input, authorize the actor, and delegate domain operations to this layer.
